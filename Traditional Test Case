@@ -1,0 +1,10 @@
+Brief Description: Verify application		
+	Component:Page
+	Prerequisite 1: Open gmail application	
+	Prerequisite 2: Create new user	
+	Steps:	
+	Action 1: Enter 123456
+	Expected result 1: User ahe credentials	
+	Action 2: Click on Next	
+	Expected result 2: User s
+Expected Output : User ydefault open		
